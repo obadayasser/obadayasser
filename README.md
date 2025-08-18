@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Obada Yasser
 
-🎓 3rd Year Computer Science Student at Tiba Academy  
+🎓 Computer Science Student 
 💻 Frontend Developer specialized in **React.js**, **Next.js**, and **Firebase**  
 📍 Based in Egypt | 🌍 Working remotely
 
