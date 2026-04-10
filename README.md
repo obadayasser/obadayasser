@@ -5,7 +5,7 @@
 
 # Hey there! I'm Obada Yasser <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### 🎓 Computer Science Student | 💻 Full Stack JavaScript Developer
+### 💻 Full Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Applications;Next.js+%7C+React+%7C+NestJS+%7C+PostgreSQL;2%2B+Years+of+Production+Experience;Live+Streaming+%7C+Real-Time+Systems)](https://git.io/typing-svg)
 
