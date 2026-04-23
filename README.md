@@ -118,59 +118,72 @@ I specialize in building **scalable web applications** using modern technologies
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [E-Commerce Platform](https://ecoomercep.web.app/)
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+### 🎨 [ArtSora — Online Art Storefront](https://art-sora.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/obadayasser/art-sora) [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://art-sora.vercel.app/)
 
-- 🔐 Authentication & Protected Routes
-- 💱 Multi-currency support
-- 📦 Order tracking system
-- 💳 Secure checkout flow
-- 📱 Fully responsive UI
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white"/>
+
+- 🖼️ 3D art hero with Three.js / R3F
+- 💳 Multi-gateway checkout (Stripe, COD, InstaPay)
+- 🔐 Admin dashboard with JWT + TOTP 2FA
+- 🌍 Bilingual (EN/AR) with full RTL support
+- ⚡ Real-time updates via Socket.io & Zego
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 [NG Technology](https://ng-technology.vercel.app/)
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+### 🛒 [Artsora — E-Commerce Backend API](https://github.com/obadayasser/artsora-back)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/obadayasser/artsora-back)
 
-- 🎨 Modern UI/UX design
-- 📱 Fully responsive layout
-- ⚡ Fast & optimized performance
-- 🏢 Professional company landing page
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+
+- 🧩 Modular monolith — 11 modules, 30+ entities
+- 🔐 JWT + HttpOnly cookies, TOTP 2FA, RBAC
+- 💰 Multi-gateway payments with signed webhooks
+- 📦 Audited order state machine & checkout engine
+- 🚀 Deployed on Nginx with PM2 cluster mode
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧕 [Nour Store](https://obadayasser.github.io/Nour-Store/)
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+### 🩸 [Sharyan — Blood Donation Platform](https://github.com/obadayasser/sharyan-)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/obadayasser/sharyan-)
 
-- 🌍 Bilingual support (Arabic & English)
-- 🛍️ Product browsing system
-- 📱 Responsive storefront
-- 👤 Client delivery project
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+- 📍 Haversine geo-search for nearest donors
+- 🩸 ABO/Rh matching + 56-day interval enforcement
+- 💬 Real-time chat & FCM push notifications
+- 🎮 Gamification system & approval workflow
+- 📘 Full Swagger / OpenAPI documentation
 
 </td>
 <td width="50%" valign="top">
 
-### 🎥 Live Streaming Platform
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/LiveKit-FF2D55?style=flat-square&logo=webrtc&logoColor=white"/>
+### 🌱 [JHT Group — Agricultural Platform](https://jht-group.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/obadayasser/JHT-Group) [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://jht-group.vercel.app/)
 
-- 📡 Real-time streaming
-- 💬 Interactive user sessions
-- 📈 Scalable architecture
-- 🤝 Team collaboration project
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+
+- 🌐 Bilingual (EN/AR) marketing + admin site
+- 🔐 JWT-secured admin dashboard
+- 💬 Real-time support chat (text, voice, file)
+- 🧱 Server Components + Server Actions
+- 🎨 Reusable design system with full RTL
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-### 📊 E-Commerce Admin Dashboard *(Private)*
-<img src="https://img.shields.io/badge/Private_Project-FF0000?style=flat-square&logo=lock&logoColor=white"/>
+### 🎥 Zytronic — Live Streaming Platform *(Production)*
+<img src="https://img.shields.io/badge/Production_Project-6C63FF?style=flat-square&logo=nextdotjs&logoColor=white"/>
 
-Built for a real business client — includes order analytics, product management, currency control, sales reports & admin operations. *Code available upon request.*
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Zego-0055FF?style=flat-square&logo=icloud&logoColor=white"/>
+
+Live-streaming platform covering both the web dashboard and the client-facing application — real-time sessions, admin moderation, and scalable architecture. *Private codebase.*
 
 </td>
 </tr>
